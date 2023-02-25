@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 RECIPE APPLICATION <a name="about-project"></a>
+# 📖 HELLO WORLD APPLICATION <a name="about-project"></a>
 
 **HELLO RAILS REACT APPLICATION** is a educational application where a connection between a Ruby on Rails back-end and React front-end is implemented with two separated applications.
 
